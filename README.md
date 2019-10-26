@@ -32,8 +32,3 @@ like from `eighteen minutes after 7 pm` to `19 18`. I make
 * output: `16 45`
 * attention:  
 ![avatar](images/1645.png)
-
-##### Author
-欢迎交流  
-wechat:`dengxiuqi007`  
-2019.6
